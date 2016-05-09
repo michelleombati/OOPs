@@ -23,9 +23,9 @@ class Pen {
 
 	std::string getName(){return pen_name;}
 
-	virtual std::string drawLine();
+	std::string drawLine();
 
-	virtual std::string drawCircle();
+	std::string drawCircle();
 
 };
 

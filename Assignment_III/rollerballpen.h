@@ -1,6 +1,8 @@
 #ifndef ROLLERBALLPEN_H
 #define ROLLERBALLPEN_H
 
+#include "pen.h"
+
 class RollerBallPen : public Pen{
 
 public:
